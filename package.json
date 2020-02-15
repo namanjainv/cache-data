@@ -1,0 +1,19 @@
+{
+  "name": "cache-data",
+  "version": "1.0.0",
+  "description": "An npm module to cache memory from different modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanjainv/cache-data.git"
+  },
+  "author": "Vimal Kumar, Naman Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namanjainv/cache-data/issues"
+  },
+  "homepage": "https://github.com/namanjainv/cache-data#readme"
+}
