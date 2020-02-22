@@ -3,8 +3,8 @@ var cacheData = require('./cacheData.js');
 const fs = require('fs')
 
 class FileCache extends cacheData.CacheData {
-    constructor( timeToLive = 5, rootPath ) {
-        super( timeToLive );
+    constructor( rootPath ) {
+        super( );
         this.rootPath = rootPath;
     }
 

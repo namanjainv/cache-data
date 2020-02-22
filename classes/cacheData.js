@@ -1,7 +1,6 @@
 class CacheData {
-    constructor( timeToLive = 5 ) {
+    constructor( ) {
         this.myMap = { }
-        this.timeToLive = 60000 * timeToLive;
     }
 
     set( param, value, metrics = null ) {
